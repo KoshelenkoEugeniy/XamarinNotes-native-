@@ -1,0 +1,12 @@
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/XamarinNotesNew.dll
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/XamarinNotesNew.pdb
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/obj/Debug/XamarinNotesNew.csproj.CoreCompileInputs.cache
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/obj/Debug/XamarinNotesNew.dll
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/obj/Debug/XamarinNotesNew.pdb
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/SQLite-net.dll
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/SQLitePCLRaw.core.dll
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/SQLite-net.pdb
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/bin/Debug/SQLite-net.xml
+/Users/evgenij/Documents/Developer/Xamarin/XamarinNotesNew/XamarinNotesNew/obj/Debug/XamarinNotesNew.csprojResolveAssemblyReference.cache

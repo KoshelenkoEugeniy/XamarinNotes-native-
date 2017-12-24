@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6DCC3411-2946-4BF3-ACD1-82B2E3969639}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinNotesNew.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0C47862D-1C3F-4273-A1EA-B219F72ECF80" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Controllers/NoteListTVC.cs">
+    <Files>
+      <File FileName="iOS/Controllers/NoteListTVC.cs" Line="28" Column="47" />
+      <File FileName="XamarinNotesNew/Classes/Model.cs" Line="26" Column="1" />
+      <File FileName="XamarinNotesNew/Classes/Observer.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamarinNotesNew.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

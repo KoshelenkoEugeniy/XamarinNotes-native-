@@ -1,0 +1,4 @@
+XamarinNotesNew.Droid.MainActivity, XamarinNotesNew.Droid;md5fe7fb27f362c014c3cc60ed1614da299.MainActivity
+XamarinNotesNew.Droid.MainActivity, XamarinNotesNew.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fe7fb27f362c014c3cc60ed1614da299.MainActivity
+XamarinNotesNew.Droid.MainActivity;md5fe7fb27f362c014c3cc60ed1614da299.MainActivity
+xamarinnotesnew.droid.MainActivity;md5fe7fb27f362c014c3cc60ed1614da299.MainActivity
